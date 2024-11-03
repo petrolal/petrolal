@@ -10,6 +10,8 @@ em grandes empresas privadas no ramo do comércio varejista, e até como desenvo
 - 👩‍💻 **Desenvolvedor Fullstack** na [Zello Tecnologia](https://www.zello.tec.br/).
 - 🫀 Apaixonado pelo meu trabalho e pela minha carreira!
 - 🖨 Entusiasta em **impressões 3D**
+- 🪥 Escovador de Bit.
+- 🐧 Linux Distro Hunter.
 
 #### Proficiente em:
 |  Tecnologia | Detalhes |
@@ -21,6 +23,8 @@ em grandes empresas privadas no ramo do comércio varejista, e até como desenvo
 | SQL | PostgreSQL e OracleDB |
 | noSQL | MongoDB, Redis | 
 | Desenvolvimento Agil | Scrum, Kanbam |
+| Testes | PHPUnit, JUnit |
+| Environment | Nginx, Apache, Vagrant, Docker, SonarCube |
 | GIT | Gitlab, Github, Bitbucket |
 ---
 ### Vocês podem me encontrar em:
