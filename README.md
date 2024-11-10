@@ -11,7 +11,7 @@ em grandes empresas privadas no ramo do comércio varejista, e até como desenvo
 - 👩‍💻 **Desenvolvedor Fullstack** na [Zello Tecnologia](https://www.zello.tec.br/).
 - 🫀 Apaixonado pelo meu trabalho e pela minha carreira!
 - 🖨 Entusiasta em **impressões 3D**
-- 🐧 Atualmente focado em machine learning e data Science.
+- 🐧 Atualmente focado em **Machine learning** e **Data Science**.
 
 #### Proficiente em:
 |  Tecnologia | Detalhes |
