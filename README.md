@@ -1,25 +1,24 @@
 ### Bem vindos, galera! oPetrola aqui 🖖
 ---
 
-Desenvolvedor Backend, com mais de 9 anos de experiência com Java, PHP e Javascript/Typescript. 
+Desenvolvedor Backend em realocação para cientista de dados, com mais de 9 anos de experiência com Java, PHP e Python. 
+Atualmente focado em estudar machine learning e Data Science com Pythona, NumPy, Pandas, MatplotLib, TensorFlow, Keras e Sci-kit Learn.
 Já trabalhei em projetos de desenvolvimento de software realtime em uma empresas de telecomunicações,
 em provas de conceito de licitações para orgãos públicos, bem como implatação e manutenção destes softwares dentro dos orgãos (Ganhamos todas as pocs 🤭),
 em grandes empresas privadas no ramo do comércio varejista, e até como desenvolvedor em um site adulto 🤌.
 
-- 👀 **Desenvolvedor Backend PHP e Java**.
+- 👀 **Desenvolvedor Backend Java em realocação para Cientista de dados**.
 - 👩‍💻 **Desenvolvedor Fullstack** na [Zello Tecnologia](https://www.zello.tec.br/).
 - 🫀 Apaixonado pelo meu trabalho e pela minha carreira!
 - 🖨 Entusiasta em **impressões 3D**
-- 🪥 Escovador de Bit.
-- 🐧 Linux Distro Hunter.
+- 🐧 Atualmente focado em machine learning e data Science.
 
 #### Proficiente em:
 |  Tecnologia | Detalhes |
 |---|---|
-| PHP | Laravel, Zend, CodeIgniter |
+| Python | Flask, Django, NumPy, Matplotlib, Pandas |
 | JAVA | Spring, JSF, geração de relatórios com Pentaho e iReports |
-| JavaScript, Typescript | NestJS, Angular, AngularJS, VueJS |
-| Python | Flask, Django |
+| PHP | Laravel, Zend |
 | SQL | PostgreSQL e OracleDB |
 | noSQL | MongoDB, Redis | 
 | Desenvolvimento Agil | Scrum, Kanbam |
