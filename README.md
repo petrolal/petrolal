@@ -2,7 +2,7 @@
 ---
 
 Desenvolvedor Backend em realocação para cientista de dados, com mais de 9 anos de experiência com Java, PHP e Python. 
-Atualmente focado em estudar machine learning e Data Science com Python, NumPy, Pandas, MatplotLib, TensorFlow, Keras e Sci-kit Learn.
+Atualmente focado em estudar machine learning e Data Science com Python, NumPy, Pandas, MatplotLib, TensorFlow, Keras e Scikit-Learn.
 Já trabalhei em projetos de desenvolvimento de software realtime em uma empresas de telecomunicações,
 em provas de conceito de licitações para orgãos públicos, bem como implatação e manutenção destes softwares dentro dos orgãos (Ganhamos todas as pocs 🤭),
 em grandes empresas privadas no ramo do comércio varejista, e até como desenvolvedor em um site adulto 🤌.
