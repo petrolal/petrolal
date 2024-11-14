@@ -1,29 +1,29 @@
 ### Bem vindos, galera! oPetrola aqui 🖖
 ---
 
-Desenvolvedor Backend em realocação para cientista de dados, com mais de 9 anos de experiência com Java, PHP e Python. 
-Atualmente focado em estudar machine learning e Data Science com Python, NumPy, Pandas, MatplotLib, TensorFlow, Keras e Scikit-Learn.
-Já trabalhei em projetos de desenvolvimento de software realtime em uma empresas de telecomunicações,
+Desenvolvedor Backend Java, com mais de 9 anos de experiência com Java e PHP. Já trabalhei em projetos de desenvolvimento de software realtime em empresas de telecomunicações,
 em provas de conceito de licitações para orgãos públicos, bem como implatação e manutenção destes softwares dentro dos orgãos (Ganhamos todas as pocs 🤭),
 em grandes empresas privadas no ramo do comércio varejista, e até como desenvolvedor em um site adulto 🤌.
 
-- 👀 **Desenvolvedor Backend Java em realocação para Cientista de dados**.
-- 👩‍💻 **Desenvolvedor Fullstack** na [Zello Tecnologia](https://www.zello.tec.br/).
+- 👀 **Desenvolvedor Backend Java**.
+- 👩‍💻 **Desenvolvedor Fullstack Java** na [Zello Tecnologia](https://www.zello.tec.br/).
 - 🫀 Apaixonado pelo meu trabalho e pela minha carreira!
-- 🖨 Entusiasta em **impressões 3D**
-- 🐧 Atualmente focado em **Machine learning** e **Data Science**.
+- 🖨 Entusiasta em **impressões 3D** e **automação**
+- 🐧 Atualmente focado em tirar as certificações **OCA e OCP**.
+- 🐧 **Linux** Lover.
 
 #### Proficiente em:
 |  Tecnologia | Detalhes |
 |---|---|
-| Python | Flask, Django, NumPy, Matplotlib, Pandas |
-| JAVA | Spring, JSF, geração de relatórios com Pentaho e iReports |
-| PHP | Laravel, Zend |
+| JAVA | Spring, JSF, Hibernate, JPA, Migrations com Flyway e Liquibase, geração de relatórios com Pentaho e iReports |
+| Dependencie Manager | Maven, Gradle, Compose |
+| Python | Flask, Django |
+| PHP | Laravel, Zend2, EloquentORM e Doctrine |
 | SQL | PostgreSQL e OracleDB |
 | noSQL | MongoDB, Redis | 
 | Desenvolvimento Agil | Scrum, Kanbam |
-| Testes | PHPUnit, JUnit |
-| Environment | Nginx, Apache, Vagrant, Docker, SonarCube |
+| Testes | JUnit, Selenium |
+| Environment | Nginx, Apache, JBoss, TomCat, Vagrant, Docker, SonarCube |
 | GIT | Gitlab, Github, Bitbucket |
 ---
 ### Vocês podem me encontrar em:
