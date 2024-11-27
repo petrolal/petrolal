@@ -1,35 +1,106 @@
-### Bem vindos, galera! oPetrola aqui 🖖
----
+![MasterHead](./thePetrolaBanner.png)
+![](https://komarev.com/ghpvc/?username=thePetrola&style=for-the-badge)
 
-<p align="center">Desenvolvedor Backend Java, com mais de 9 anos de experiência com Java e PHP. Já trabalhei em projetos de desenvolvimento de software realtime em empresas de telecomunicações,
+Desenvolvedor Backend Java, com mais de 9 anos de experiência com Java e PHP. Já trabalhei em projetos de desenvolvimento de software realtime em empresas de telecomunicações,
 em provas de conceito de licitações para orgãos públicos, bem como implatação e manutenção destes softwares dentro dos orgãos (Ganhamos todas as pocs 🤭),
-em grandes empresas privadas no ramo do comércio varejista, e até como desenvolvedor em um site adulto 🤌.</p>
+em grandes empresas privadas no ramo do comércio varejista, e até como desenvolvedor em um site adulto 🤌.
+
+<details>
+  <summary><h3>📖 Sobre Mim</h3></summary>
 
 - 👀 **Desenvolvedor Backend Java**.
 - 👩‍💻 **Desenvolvedor Fullstack Java** na [Zello Tecnologia](https://www.zello.tec.br/).
 - 🫀 Apaixonado pelo meu trabalho e pela minha carreira!
 - 🖨 Entusiasta em **impressões 3D** e **automação**
-- 🐧 Atualmente focado em tirar as certificações **OCA e OCP**.
+- 📘 Atualmente focado em tirar as certificações **OCA e OCP**.
 - 🐧 **Linux** Lover.
 
-#### Proficiente em:
-|  Tecnologia | Detalhes |
-|---|---|
-| JAVA | Spring, JSF, Hibernate, JPA, Migrations com Flyway e Liquibase, geração de relatórios com Pentaho e iReports |
-| Dependencie Manager | Maven, Gradle, Compose |
-| Python | Flask, Django |
-| PHP | Laravel, Zend2, EloquentORM e Doctrine |
-| SQL | PostgreSQL e OracleDB |
-| noSQL | MongoDB, Redis | 
-| Desenvolvimento Agil | Scrum, Kanbam |
-| Testes | JUnit, Selenium |
-| Environment | Nginx, Apache, JBoss, TomCat, Vagrant, Docker, SonarCube |
-| GIT | Gitlab, Github, Bitbucket |
----
-### Vocês podem me encontrar em:
+</details>
+
+<details>
+  <summary><h3>📘 Meus principais projetos</h3></summary>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thePetrola&repo=tourettevim.java)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thePetrola&repo=jsf-webapp-initial)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thePetrola&repo=teste-mirante-cidades-backend)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+<details>
+  <summary><h3>🛠️ Minhas ferramentas Favoritas</h3></summary>
+  
+  #### 👨‍💻 Linguagens de programação e marcação
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+  #### 🧰 Frameworks and Libraries
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+  ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+  
+  #### 🗄️ Databases e Hosting
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+  ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+  #### 💻 Editores e ferramentas
+  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+
+  #### 🐧 Sistemas Operacionais (Distros Linux pq eu sou pop)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+  ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+  ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+  ![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)
+  ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+  ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+</details>
+
+<details>
+  <summary><h3>📊 Status e Atividades</h3></summary>
+  
+  ### 🕑 WakaTime status
+  [![thePetrola's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thePetrola)](https://github.com/anuraghazra/github-readme-stats)
+
+  ### 🔥 Status de atividades
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=thePetrola&theme=graywhite)](https://git.io/streak-stats)
+
+  ### 💻 GitHub Profile Status
+  <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=thePetrola&show_icons=true&line_height=20&hide_border=true" width="440"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thePetrola&layout=compact&" width="313" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=thePetrola&theme=github" width="600" />
+  </div>
+  <br />
+  
+  <strong>Nota:</strong> As principais linguagens são apenas uma métrica das linguagens em que consiste meu código público e não reflete experiência ou nível de habilidade.
+
+</details>
+
+  
+## Vocês podem me encontrar em:
 <a href="https://www.linkedin.com/in/lucas-petrola/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://medium.com/@petrolalucas">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
-<!---
-thePetrola/thePetrola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
