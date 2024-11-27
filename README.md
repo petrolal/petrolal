@@ -1,9 +1,9 @@
 ### Bem vindos, galera! oPetrola aqui 🖖
 ---
 
-Desenvolvedor Backend Java, com mais de 9 anos de experiência com Java e PHP. Já trabalhei em projetos de desenvolvimento de software realtime em empresas de telecomunicações,
+<p align="center">Desenvolvedor Backend Java, com mais de 9 anos de experiência com Java e PHP. Já trabalhei em projetos de desenvolvimento de software realtime em empresas de telecomunicações,
 em provas de conceito de licitações para orgãos públicos, bem como implatação e manutenção destes softwares dentro dos orgãos (Ganhamos todas as pocs 🤭),
-em grandes empresas privadas no ramo do comércio varejista, e até como desenvolvedor em um site adulto 🤌.
+em grandes empresas privadas no ramo do comércio varejista, e até como desenvolvedor em um site adulto 🤌.</p>
 
 - 👀 **Desenvolvedor Backend Java**.
 - 👩‍💻 **Desenvolvedor Fullstack Java** na [Zello Tecnologia](https://www.zello.tec.br/).
