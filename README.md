@@ -81,9 +81,6 @@ em grandes empresas privadas no ramo do comércio varejista, e até como desenvo
 
 <details>
   <summary><h3>📊 Status e Atividades</h3></summary>
-  
-  ### 🕑 WakaTime status
-  [![thePetrola's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thePetrola)](https://github.com/anuraghazra/github-readme-stats)
 
   ### 🔥 Status de atividades
   [![GitHub Streak](https://streak-stats.demolab.com/?user=thePetrola&theme=graywhite)](https://git.io/streak-stats)
