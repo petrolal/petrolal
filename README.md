@@ -1,18 +1,20 @@
 ![MasterHead](./thePetrolaBanner.png)
 ![](https://komarev.com/ghpvc/?username=thePetrola&style=for-the-badge)
 
-Desenvolvedor Backend Java, com mais de 9 anos de experiência com Java e PHP. Já trabalhei em projetos de desenvolvimento de software realtime em empresas de telecomunicações,
+Desenvolvedor Backend Sênior, com mais de 10 anos de experiência com Java, Python, PHP e Javascript. Já trabalhei em projetos de desenvolvimento de software realtime em empresas de telecomunicações,
 em provas de conceito de licitações para orgãos públicos, bem como implatação e manutenção destes softwares dentro dos orgãos (Ganhamos todas as pocs 🤭),
 em grandes empresas privadas no ramo do comércio varejista, e até como desenvolvedor em um site adulto 🤌.
 
 <details>
   <summary><h3>📖 Sobre Mim</h3></summary>
 
-- 👀 **Desenvolvedor Backend Java**.
-- 👩‍💻 **Desenvolvedor Fullstack Java** na [Zello Tecnologia](https://www.zello.tec.br/).
+- 👀 **Desenvolvedor Backend Sênior**.
+- 👩‍💻 **Desenvolvedor Backend Java** na [Zello Tecnologia](https://www.zello.tec.br/).
+- 📖 Voluntário na **Fábrica de Monstros** como **Mentor de Ciência de dados com Qlik** na [Zello Tecnologia](https://www.zello.tec.br/).
 - 🫀 Apaixonado pelo meu trabalho e pela minha carreira!
-- 🖨 Entusiasta em **impressões 3D** e **automação**
-- 📘 Atualmente focado em tirar as certificações **OCA e OCP**.
+- 🖨 Entusiasta em **impressões 3D** e **automação**!
+- 📘 Atualmente focado em projetos com **Agentes de IA** e **DevOps**.
+- 📊 Cientista de dados certificado **Qlik**.
 - 🐧 **Linux** Lover.
 
 </details>
