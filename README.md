@@ -34,6 +34,8 @@ em grandes empresas privadas no ramo do comércio varejista, e até como desenvo
   
   #### 👨‍💻 Linguagens de programação e marcação
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -81,20 +83,23 @@ em grandes empresas privadas no ramo do comércio varejista, e até como desenvo
   ![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)
   ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
   ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+
+  #### 👀🪛 Linguagens mais usadas
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=petrolal&theme=github" width="313" />
 </details>
 
 <details>
   <summary><h3>📊 Status e Atividades</h3></summary>
 
   ### 🔥 Status de atividades
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=thePetrola&theme=graywhite)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=petrolal&theme=graywhite)](https://git.io/streak-stats)
 
   ### 💻 GitHub Profile Status
   <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=thePetrola&show_icons=true&line_height=20&hide_border=true" width="440"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thePetrola&layout=compact&" width="313" />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=thePetrola&theme=github" width="600" />
+      <img src="https://github-readme-stats.vercel.app/api?username=petrolal&show_icons=true&line_height=20&hide_border=true&theme=github" width="440"/>      
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=petrolal&theme=github" width="600" />
   </div>
+  
   <br />
   
   <strong>Nota:</strong> As principais linguagens são apenas uma métrica das linguagens em que consiste meu código público e não reflete experiência ou nível de habilidade.
