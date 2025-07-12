@@ -19,6 +19,7 @@ em grandes empresas privadas no ramo do comércio varejista, e até como desenvo
 
 </details>
 
+<!--- 
 <details>
   <summary><h3>📘 Meus principais projetos</h3></summary>
 
@@ -26,6 +27,7 @@ em grandes empresas privadas no ramo do comércio varejista, e até como desenvo
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thePetrola&repo=jsf-webapp-initial)](https://github.com/anuraghazra/github-readme-stats)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thePetrola&repo=teste-mirante-cidades-backend)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+--->
 
 <details>
   <summary><h3>🛠️ Minhas ferramentas Favoritas</h3></summary>
