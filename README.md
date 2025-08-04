@@ -1,7 +1,7 @@
 ![MasterHead](./thePetrolaBanner.png)
 ![](https://komarev.com/ghpvc/?username=thePetrola&style=for-the-badge)
 
-Desenvolvedor Backend Sênior, com mais de 10 anos de experiência com Java, Python, PHP e Javascript. Já trabalhei em projetos de desenvolvimento de software realtime em empresas de telecomunicações,
+Desenvolvedor Backend Sênior, com mais de 10 anos de experiência com Java, Python, C e C++. Já trabalhei em projetos de desenvolvimento de software realtime em empresas de telecomunicações,
 em provas de conceito de licitações para orgãos públicos, bem como implatação e manutenção destes softwares dentro dos orgãos (Ganhamos todas as pocs 🤭),
 em grandes empresas privadas no ramo do comércio varejista, e até como desenvolvedor em um site adulto 🤌.
 
@@ -13,7 +13,7 @@ em grandes empresas privadas no ramo do comércio varejista, e até como desenvo
 - 📖 Voluntário na **Fábrica de Monstros** como **Mentor de Ciência de dados com Qlik** na [Zello Tecnologia](https://www.zello.tec.br/).
 - 🫀 Apaixonado pelo meu trabalho e pela minha carreira!
 - 🖨 Entusiasta em **impressões 3D** e **automação**!
-- 📘 Atualmente focado em projetos com **Agentes de IA** e **DevOps**.
+- 📘 Atualmente focado em projetos de **IoT**, **Agentes de IA** e **DevOps**.
 - 📊 Cientista de dados certificado **Qlik**.
 - 🐧 **Linux** Lover.
 
@@ -34,6 +34,8 @@ em grandes empresas privadas no ramo do comércio varejista, e até como desenvo
   
   #### 👨‍💻 Linguagens de programação e marcação
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+  [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
