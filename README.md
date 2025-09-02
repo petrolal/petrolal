@@ -1,34 +1,23 @@
 ![MasterHead](./thePetrolaBanner.png)
 ![](https://komarev.com/ghpvc/?username=thePetrola&style=for-the-badge)
 
-Desenvolvedor Backend Sênior, com mais de 10 anos de experiência com Java, Python, C e C++. Já trabalhei em projetos de desenvolvimento de software realtime em empresas de telecomunicações,
-em provas de conceito de licitações para orgãos públicos, bem como implatação e manutenção destes softwares dentro dos orgãos (Ganhamos todas as pocs 🤭),
-em grandes empresas privadas no ramo do comércio varejista, e até como desenvolvedor em um site adulto 🤌.
+Desenvolvedor Backend Sênior, com mais de 10 anos de experiência com Java, Python, C e C++. **Em processo de migração de carreira para DevOps**. Já trabalhei como **Analista de redes e infraestrutura**, **Desenvolvedor Backend** e **Arquiteto de software**. Em projetos de desenvolvimento com realtime em empresas de **telecomunicações**,
+em provas de conceito de **licitações para orgãos públicos**, bem como implatação e manutenção destes softwares dentro dos orgãos (Ganhamos todas as pocs 🤭),
+em **grandes empresas privadas no ramo do comércio varejista**, e até como desenvolvedor em um **aplicativo adulto** 🤌.
 
 <details>
   <summary><h3>📖 Sobre Mim</h3></summary>
 
-- 👀 **Desenvolvedor Backend Sênior**.
+- 👀 **Desenvolvedor Backend Sênior** em processo de migração de carreira para **DevOps**.
 - 👩‍💻 **Desenvolvedor Backend Java** na [Zello Tecnologia](https://www.zello.tec.br/).
 - 📖 Voluntário na **Fábrica de Monstros** como **Mentor de Ciência de dados com Qlik** na [Zello Tecnologia](https://www.zello.tec.br/).
 - 🫀 Apaixonado pelo meu trabalho e pela minha carreira!
-- 🖨 Entusiasta em **impressões 3D** e **automação**!
+- 🖨 Entusiasta em **impressões 3D**, **automação residencial** e **IoT**!
 - 📘 Atualmente focado em projetos de **IoT**, **Agentes de IA** e **DevOps**.
 - 📊 Cientista de dados certificado **Qlik**.
 - 🐧 **Linux** Lover.
 
 </details>
-
-<!--- 
-<details>
-  <summary><h3>📘 Meus principais projetos</h3></summary>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thePetrola&repo=tourettevim.java)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thePetrola&repo=jsf-webapp-initial)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thePetrola&repo=teste-mirante-cidades-backend)](https://github.com/anuraghazra/github-readme-stats)
-</details>
---->
-
 <details>
   <summary><h3>🛠️ Minhas ferramentas Favoritas</h3></summary>
   
@@ -46,11 +35,7 @@ em grandes empresas privadas no ramo do comércio varejista, e até como desenvo
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
   ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
   
   #### 🗄️ Databases e Hosting
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -68,9 +53,7 @@ em grandes empresas privadas no ramo do comércio varejista, e até como desenvo
   #### 💻 Editores e ferramentas
   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
   ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
