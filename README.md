@@ -76,9 +76,6 @@ em **grandes empresas privadas no ramo do comércio varejista**, e até como des
 <details>
   <summary><h3>📊 Status e Atividades</h3></summary>
 
-  ### 🔥 Status de atividades
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=petrolal&theme=graywhite)](https://git.io/streak-stats)
-
   ### 💻 GitHub Profile Status
   <div>
       <img src="https://github-readme-stats.vercel.app/api?username=petrolal&show_icons=true&line_height=20&hide_border=true&theme=github" width="440"/>      
