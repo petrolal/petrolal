@@ -1,4 +1,3 @@
-![MasterHead](./thePetrolaBanner.png)
 ![](https://komarev.com/ghpvc/?username=thePetrola&style=for-the-badge)
 
 ### **Desenvolvedor Backend Sênior | Em Transição para DevOps Engineer**
