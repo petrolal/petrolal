@@ -13,8 +13,7 @@ em **grandes empresas privadas no ramo do comércio varejista**, e até como des
 - 📖 Voluntário na **Fábrica de Monstros** como **Mentor de Ciência de dados com Qlik** na [Zello Tecnologia](https://www.zello.tec.br/).
 - 🫀 Apaixonado pelo meu trabalho e pela minha carreira!
 - 🖨 Entusiasta em **impressões 3D**, **automação residencial** e **IoT**!
-- 📘 Atualmente focado em projetos de **IoT**, **Agentes de IA** e **DevOps**.
-- 📊 Cientista de dados certificado **Qlik**.
+- 📘 Atualmente focado em projetos de **IoT**, **Agentes de IA** e **DevOps**
 - 🐧 **Linux** Lover.
 
 </details>
