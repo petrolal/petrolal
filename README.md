@@ -1,93 +1,91 @@
 ![MasterHead](./thePetrolaBanner.png)
 ![](https://komarev.com/ghpvc/?username=thePetrola&style=for-the-badge)
 
-Desenvolvedor Backend Sênior, com mais de 10 anos de experiência com Java, Python, C e C++. **Em processo de migração de carreira para DevOps**. Já trabalhei como **Analista de redes e infraestrutura**, **Desenvolvedor Backend** e **Arquiteto de software**. Em projetos de desenvolvimento com realtime em empresas de **telecomunicações**,
-em provas de conceito de **licitações para orgãos públicos**, bem como implatação e manutenção destes softwares dentro dos orgãos (Ganhamos todas as pocs 🤭),
-em **grandes empresas privadas no ramo do comércio varejista**, e até como desenvolvedor em um **aplicativo adulto** 🤌.
+### **Desenvolvedor Backend Sênior | Em Transição para DevOps Engineer**
+
+Com mais de 10 anos de experiência em desenvolvimento backend e infraestrutura, atuo no desenvolvimento de sistemas críticos utilizando **Java, Spring, Docker e Kubernetes**. Atualmente, estou em processo de migração para **DevOps**, com foco em **CI/CD, orquestração de containers, cloud (AWS) e monitoramento (Prometheus, Zabbix, Grafana)**.
+
+Minha trajetória inclui passagens por **telecomunicações, órgãos públicos, varejo e projetos de grande escala**, sempre atuando na interseção entre desenvolvimento e infraestrutura. Ganhamos todas as provas de conceito em licitações públicas em que atuei 🏆.
 
 <details>
   <summary><h3>📖 Sobre Mim</h3></summary>
 
-- 👀 **Desenvolvedor Backend Sênior** em processo de migração de carreira para **DevOps**.
-- 👩‍💻 **Desenvolvedor Backend Java** na [Zello Tecnologia](https://www.zello.tec.br/).
-- 📖 Voluntário na **Fábrica de Monstros** como **Mentor de Ciência de dados com Qlik** na [Zello Tecnologia](https://www.zello.tec.br/).
-- 🫀 Apaixonado pelo meu trabalho e pela minha carreira!
-- 🖨 Entusiasta em **impressões 3D**, **automação residencial** e **IoT**!
-- 📘 Atualmente focado em projetos de **IoT**, **Agentes de IA** e **DevOps**
-- 🐧 **Linux** Lover.
+- 🚀 **Desenvolvedor Backend Sênior** em transição para **DevOps Engineer**.
+- 👨‍💻 Atualmente atuando como **Desenvolvedor Backend Java** na [Zello Tecnologia](https://www.zello.tec.br/), com foco em sistemas para o **Ministério da Saúde**.
+- 📊 **Mentor voluntário de Ciência de Dados** com Qlik na **Fábrica de Monstros**.
+- ☁️ Estudando e certificando-me em **AWS, Kubernetes e Terraform**.
+- 🖨️ Entusiasta de **impressão 3D, automação residencial e IoT**.
+- 🐧 **Linux Lover** – usuário diário de Arch, Debian e derivados.
 
-</details>
-<details>
-  <summary><h3>🛠️ Minhas ferramentas Favoritas</h3></summary>
-  
-  #### 👨‍💻 Linguagens de programação e marcação
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-  [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-  #### 🧰 Frameworks and Libraries
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
-  ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-  
-  #### 🗄️ Databases e Hosting
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-  ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-  #### 💻 Editores e ferramentas
-  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-
-  #### 🐧 Sistemas Operacionais (Distros Linux pq eu sou pop)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-  ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-  ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
-  ![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)
-  ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
-  ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-
-  #### 👀🪛 Linguagens mais usadas
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=petrolal&theme=github" width="313" />
 </details>
 
 <details>
-  <summary><h3>📊 Status e Atividades</h3></summary>
+  <summary><h3>🛠️ Stack Técnica</h3></summary>
 
-  ### 💻 GitHub Profile Status
+#### ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+#### 📊 **Monitoring & Logging**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/zabbix-%23D50000.svg?style=for-the-badge&logo=zabbix&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+#### 🗄️ **Databases**
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 👨‍💻 **Linguagens & Frameworks**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### 🐧 **SO & Ferramentas**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+#### 👀 **Linguagens mais usadas**
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=petrolal&theme=github&hide_border=true&layout=compact" width="400" />
+
+</details>
+
+<details>
+  <summary><h3>📊 GitHub Stats</h3></summary>
+
+  ### 💻 Profile Status
   <div>
       <img src="https://github-readme-stats.vercel.app/api?username=petrolal&show_icons=true&line_height=20&hide_border=true&theme=github" width="440"/>      
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=petrolal&theme=github" width="600" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=petrolal&theme=github&hide_border=true" width="600" />
   </div>
-  
+
   <br />
-  
-  <strong>Nota:</strong> As principais linguagens são apenas uma métrica das linguagens em que consiste meu código público e não reflete experiência ou nível de habilidade.
+
+  <strong>Nota:</strong> As linguagens mostradas refletem apenas meus repositórios públicos e não necessariamente minha experiência completa.
 
 </details>
 
-  
-## Vocês podem me encontrar em:
+---
+
+## 📫 Conecte-se comigo:
 <a href="https://www.linkedin.com/in/lucas-petrola/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://medium.com/@petrolalucas">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="mailto:petrolalucas@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+---
+
+### 🚀 **Pronto para colaborar em projetos DevOps, cloud e automação!**
