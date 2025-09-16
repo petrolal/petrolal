@@ -3,7 +3,7 @@
 
 ### **DevOps Engineer**
 
-Com mais de 10 anos de experiência em desenvolvimento backend e infraestrutura, atuo no desenvolvimento de sistemas críticos utilizando **Java, Spring, Docker e Kubernetes**. Atualmente, estou em processo de migração para **DevOps**, com foco em **CI/CD, orquestração de containers, cloud (AWS) e monitoramento (Prometheus, Zabbix, Grafana)**.
+Com mais de 10 anos de experiência em Redes e Infraestrura e com desenvolvimento backend, atuo na criação e manutenção de sistemas críticos utilizando **Terraform, AWS, Docker e Kubernetes, Java e Spring**. Experiente em **CI/CD, orquestração de containers, cloud (AWS) e monitoramento (Prometheus, Zabbix, Grafana)**.
 
 Minha trajetória inclui passagens por **telecomunicações, órgãos públicos, varejo e projetos de grande escala**, sempre atuando na interseção entre desenvolvimento e infraestrutura. Ganhamos todas as provas de conceito em licitações públicas em que atuei 🏆.
 
@@ -11,8 +11,7 @@ Minha trajetória inclui passagens por **telecomunicações, órgãos públicos,
   <summary><h3>📖 Sobre Mim</h3></summary>
 
 - 🚀 **DevOps Engineer**.
-- 👨‍💻 Atualmente atuando como **Desenvolvedor Backend Java** na [Zello Tecnologia](https://www.zello.tec.br/), com foco em sistemas para o **Ministério da Saúde**.
-- 📊 **Mentor voluntário de Ciência de Dados** com Qlik na **Fábrica de Monstros**.
+- 👨‍💻 Atualmente atuando como **Desenvolvedor Backend e Engenheiro DevOps** na [Zello Tecnologia](https://www.zello.tec.br/), com o foco em sistemas para o **Ministério da Saúde**.
 - ☁️ Estudando e certificando-me em **AWS, Kubernetes e Terraform**.
 - 🖨️ Entusiasta de **impressão 3D, automação residencial e IoT**.
 - 🐧 **Linux Lover** – usuário diário de Arch, Debian e derivados.
@@ -42,7 +41,7 @@ Minha trajetória inclui passagens por **telecomunicações, órgãos públicos,
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redshift](https://img.shields.io/badge/-Amazon%20Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
 
 #### 👨‍💻 **Linguagens & Frameworks**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -57,7 +56,6 @@ Minha trajetória inclui passagens por **telecomunicações, órgãos públicos,
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 #### 👀 **Linguagens mais usadas**
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=petrolal&theme=github&hide_border=true&layout=compact" width="400" />
