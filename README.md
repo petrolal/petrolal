@@ -10,7 +10,7 @@ Minha trajetória inclui passagens por **telecomunicações, órgãos públicos,
   <summary><h3>📖 Sobre Mim</h3></summary>
 
 - 🚀 **DevOps Engineer**.
-- 👨‍💻 Atualmente atuando como **Desenvolvedor Backend e Engenheiro DevOps** na [Zello Tecnologia](https://www.zello.tec.br/), com o foco em sistemas para o **Ministério da Saúde**.
+- 👨‍💻 Atualmente atuando como **Engenheiro DevOps e Desenvolvedor Backend** na [Zello Tecnologia](https://www.zello.tec.br/).
 - ☁️ Estudando e certificando-me em **AWS, Kubernetes e Terraform**.
 - 🖨️ Entusiasta de **impressão 3D, automação residencial e IoT**.
 - 🐧 **Linux Lover** – usuário diário de Arch, Debian e derivados.
@@ -78,11 +78,6 @@ Minha trajetória inclui passagens por **telecomunicações, órgãos públicos,
 
 ---
 
-## 📫 Conecte-se comigo:
 <a href="https://www.linkedin.com/in/lucas-petrola/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://medium.com/@petrolalucas">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="mailto:petrolalucas@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
----
-
-### 🚀 **Pronto para colaborar em projetos DevOps, cloud e automação!**
