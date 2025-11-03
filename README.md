@@ -64,27 +64,6 @@ Foco em **infraestrutura como código, automação de pipelines de ML** e **obse
 </details>
 
 <details>
-  <summary><h3>🚀 Projetos em Destaque</h3></summary>
-
-#### 🧠 **[mlops-pipeline-template](https://github.com/petrolal/mlops-pipeline-template)**
-Template para criação de pipelines **MLOps** com **MLflow**, **Docker**, **Terraform** e **AWS SageMaker**.  
-> Stack: MLflow, Python, Terraform, AWS, Kubernetes.
-
-#### ⚙️ **[infra-pipelines](https://github.com/petrolal/infra-pipelines)**
-Automação de pipelines **CI/CD** e infraestrutura como código com **GitLab**, **Ansible** e **Terraform**.  
-> Stack: Terraform, GitLab CI, AWS, Docker.
-
-#### ☁️ **[click2call](https://github.com/petrolal/cmx_click2call)**
-Integração entre **FastAPI** e **WebRTC** para comunicação real-time, com deploy em **Kubernetes**.  
-> Stack: Python, FastAPI, Redis, Kubernetes, Docker.
-
-#### 📊 **[go-sentinel](https://github.com/petrolal/go-sentinel)**
-Monitoramento de APIs e métricas em **GoLang**, integrado a **Prometheus** e **Grafana**.  
-> Stack: Go, Prometheus, Grafana.
-
-</details>
-
-<details>
   <summary><h3>📈 GitHub Stats</h3></summary>
 
 <div>
