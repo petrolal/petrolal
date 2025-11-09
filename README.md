@@ -1,25 +1,25 @@
 ![](https://komarev.com/ghpvc/?username=petrolal&style=for-the-badge)
 
-### **MLOps | DevOps Engineer | Cloud & Automation**
+### **MLOps Engineer | DevOps & Cloud Automation | Backend Integration**
 
-Engenheiro focado em **MLOps e DevOps**, com mais de 10 anos de experiência em **engenharia de software, automação e cloud**.  
-Atuação no ciclo completo de **modelos de machine learning** e **sistemas distribuídos**, desde o deploy e versionamento até monitoramento e observabilidade.
+Engenheiro especializado em **MLOps e DevOps**, com mais de 10 anos de experiência em **automação, backend e infraestrutura cloud**.  
+Atuação no ciclo completo de **modelos de machine learning em produção**, integrando **pipelines de dados, deploy de modelos e observabilidade** com práticas de engenharia de software.
 
-Experiência prática em **AWS (SageMaker, ECR, S3, Lambda, EC2, ECS, EKS)**, **Kubernetes**, **Terraform**, **Ansible**, **Docker** e **pipelines CI/CD** (GitLab, Jenkins, GitHub Actions).  
-Vivência com **monitoramento e rastreabilidade de modelos** usando **MLflow**, **Kubeflow**, **Prometheus**, **Grafana** e **DataDog**.  
-Foco em **infraestrutura como código, automação de pipelines de ML** e **observabilidade de aplicações e modelos em produção**.
+Experiência prática em **AWS (SageMaker, ECR, S3, Lambda, ECS, EKS)**, **Kubernetes**, **Terraform**, **Ansible**, **Docker** e **pipelines CI/CD** (GitLab, Jenkins, GitHub Actions).  
+Vivência com **monitoramento e rastreabilidade de modelos** através de **MLflow, Kubeflow, Prometheus, Grafana e DataDog**.  
+Foco em **infraestrutura como código, automação de pipelines de ML**, **serving de modelos via APIs (FastAPI)** e **observabilidade de sistemas e IA**.
 
 ---
 
 <details>
   <summary><h3>📖 Sobre Mim</h3></summary>
 
-- ☁️ **Engenheiro MLOps e DevOps**, com base sólida em **Backend e Cloud-Native**.  
-- 🧠 Experiência em **monitoramento, CI/CD, automação e pipelines de ML**.  
+- ☁️ **Engenheiro MLOps / DevOps** com base sólida em **Backend Cloud-Native**.  
+- 🧠 Crio soluções completas de **deploy, monitoramento e automação** para modelos de IA.  
 - 🔧 Atuação atual na **Zello Tecnologia**, integrando **DevOps, MLOps e Backend (Java, Python, Go)**.  
-- 🚀 Projetos com **AWS, Kubernetes, Terraform, Ansible, MLflow e SageMaker**.  
-- 🧩 Interesses: **orquestração de modelos, observabilidade de IA, DataOps e automação de experimentos**.  
-- 🐧 Usuário de **Arch e Debian Linux**, adepto de setups minimalistas e scripts otimizados.
+- 🚀 Experiência com **AWS, Kubernetes, Terraform, Ansible, MLflow e SageMaker**.  
+- 🧩 Interesses: **observabilidade de modelos, DataOps, pipelines de ML e automação de experimentos**.  
+- 🐧 Usuário de **Arch e Debian Linux**, adepto de setups minimalistas e automações shell.  
 
 </details>
 
