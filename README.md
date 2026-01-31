@@ -1,102 +1,88 @@
-# 🔧 Backend Engineer | Cloud-Native | Go, Python, Kotlin & AWS
+# 🔧 Senior DevOps Engineer | Cloud-Native | AWS | Kubernetes | CI/CD | Observability
 
-Engenheiro Backend com mais de 9 anos construindo **microsserviços de alta performance**, sistemas distribuídos, integrações cloud e arquitetura escalável. Forte experiência prática em **Go, Python, Kotlin/Java**, ambientes AWS e pipelines automatizados.
+Engenheiro **DevOps / Cloud** com mais de **9 anos** atuando na construção, automação e operação de **plataformas cloud-native em produção**, com forte base em desenvolvimento backend e sistemas distribuídos.
 
-Atuação sólida em **APIs resilientes**, mensageria, infraestrutura containerizada e entregas contínuas.  
-Foco em entregar **software rápido, seguro e previsível**, mantendo código limpo e arquitetura clara.
+Experiência prática em **AWS, containers, CI/CD, observabilidade e arquiteturas resilientes**, atuando próximo ao código e à infraestrutura.  
+Foco em **entregas previsíveis, ambientes estáveis, automação agressiva e redução de risco operacional**.
 
 ---
 
-<details>
-  <summary><h3>📖 Sobre Mim</h3></summary>
+## 📖 Sobre Mim
 
-- Engenheiro Backend atuando com **Go, Python, Kotlin e Java**.  
-- Experiência com **microsserviços, integrações AWS e sistemas IoT**.  
-- Forte atuação em **Docker, CI/CD, automação e cloud-native**.  
+- **Senior DevOps / Cloud Engineer** com background sólido em backend.  
+- Atuação em **AWS (ECS, Lambda, S3, RDS, EventBridge)** e ambientes cloud-native.  
+- Forte experiência com **Docker, CI/CD, automação e observabilidade**.  
+- Vivência em **sistemas distribuídos, mensageria e workloads críticos**.  
+- Experiência com **plataformas IoT**, edge e pipelines event-driven.  
 - Passagens por **ASSA ABLOY, Zello Tecnologia, PD Case e Comunix**.  
-- Interesse constante em **observabilidade, performance e boas práticas de engenharia**.  
-- Usuário de Linux minimalista (**Arch/Debian**), adepto de automação e setups enxutos.  
-
-</details>
+- Usuário de Linux (**Arch/Debian**), foco em automação, confiabilidade e simplicidade operacional.
 
 ---
 
-<details>
-  <summary><h3>🛠️ Stack Técnica</h3></summary>
+## 🛠️ Stack Técnica (DevOps)
 
-#### 💻 Linguagens & Frameworks
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-
-#### ☁️ Cloud / AWS
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-- Lambda  
+### ☁️ Cloud / AWS
 - ECS  
+- Lambda  
 - S3  
 - RDS  
 - EventBridge  
+- IAM  
 
-#### ⚙️ DevOps & Automação
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+### ⚙️ DevOps & Automação
+- Docker  
+- GitHub Actions  
+- CI/CD  
+- Observability  
+- Monitoring & Alerting  
+- Incident Response  
+- Automation & Tooling  
 
-#### 🧩 Mensageria & Dados
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+### 🧩 Arquitetura & Plataforma
+- Cloud-Native Architecture  
+- Event-Driven Systems  
+- High Availability  
+- Scalability  
+- Reliability Engineering (SRE mindset)
 
-</details>
+### 💻 Linguagens (suporte à automação)
+- Go  
+- Python  
+- Kotlin  
 
 ---
 
-<details>
-  <summary><h3>🏢 Experiência</h3></summary>
+## 🏢 Experiência
 
-### **ASSA ABLOY Global Solutions – Backend Engineer**  
+### ASSA ABLOY Global Solutions — Senior DevOps / Cloud Engineer  
 **2025 – Atual**  
-- Desenvolvimento backend em **Java/Kotlin** com Spring Boot.  
-- Integrações IoT e AWS (Lambda, serviços cloud).  
-- Containerização e participação em cerimônias ágeis.
+- Operação e evolução de **plataformas cloud-native na AWS**.  
+- Containerização e deploy de aplicações com **Docker e ECS**.  
+- Implementação e operação de workloads **serverless (Lambda)**.  
+- Observabilidade, troubleshooting e suporte a ambientes produtivos críticos.  
+- Participação em decisões arquiteturais e padrões operacionais.
 
-### **Zello Tecnologia – Backend & Cloud (Go / Python / AWS)**  
+### Zello Tecnologia — DevOps / Cloud Engineer (AWS)  
 **2024 – 2025**  
-- Microsserviços escaláveis em Go e Python.  
-- Integrações com AWS (ECS, S3, RDS).  
-- CI/CD com GitHub Actions.
+- Operação de microsserviços em **AWS (ECS, S3, RDS)**.  
+- Automação de pipelines **CI/CD com GitHub Actions**.  
+- Suporte a ambientes de produção com foco em estabilidade e escala.
 
-### **PD Case – Backend Go / Python**  
+### PD Case — DevOps / Platform Engineer  
 **2022 – 2024**  
-- Microsserviços Go e FastAPI.  
-- Otimização de APIs (-40% de tempo de resposta).  
-- Testes automatizados e arquitetura limpa.
+- Operação de plataformas distribuídas e pipelines assíncronos.  
+- Automação de deploy, monitoramento e rotinas operacionais.  
+- Atuação direta em confiabilidade e performance de APIs críticas.
 
-### **Comunix Tecnologia – Engenheiro Backend (Go / Python)**  
+### Comunix Tecnologia — DevOps / Backend Engineer  
 **2019 – 2022**  
-- APIs internas, modernização de sistemas e Docker.  
-- Participação em arquitetura e code review.
-
-</details>
-
----
-
-<details>
-  <summary><h3>📈 GitHub Stats</h3></summary>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=petrolal&show_icons=true&hide_border=true&theme=github_dark" width="440"/>      
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=petrolal&theme=github_dark&hide_border=true" width="600" />
-</div>
-
-</details>
+- Criação de **pipelines CI/CD** e automações operacionais.  
+- Monitoramento, performance e estabilidade de sistemas de tempo real.  
+- Integração entre aplicações, infraestrutura e hardware.
 
 ---
 
-<a href="https://www.linkedin.com/in/lucas-petrola/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:petrolalucas@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+## 🔗 Contato
+
+- LinkedIn: https://www.linkedin.com/in/lucas-petrola/  
+- Email: petrolalucas@gmail.com
