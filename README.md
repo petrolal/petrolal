@@ -85,4 +85,4 @@ Foco em **entregas previsíveis, ambientes estáveis, automação agressiva e re
 ## 🔗 Contato
 
 - LinkedIn: https://www.linkedin.com/in/lucas-petrola/  
-- Email: petrolalucas@gmail.com
+- Email: lhpetrola@gmail.com
