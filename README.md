@@ -1,6 +1,6 @@
-<div display="flex" align="center">
+<div display="flex" align="left">
 <img align="right" width="40%" src="assets/programming.png">
-
+<div>
 # Hi👋, I'm [Lucas Petrola](https://me.5dev.in)
 
 <h3>A Cloud Platform & DevOps Engineer focused on Distributed Systems & AWS</h3>
@@ -12,6 +12,7 @@
 - 📧 Reach me via [**Email**](mailto:petrolalucas@gmail.com) or connect on [**LinkedIn
   **](https://www.linkedin.com/in/lucas-petrola/).
 - 📍 Based in **Brazil, Lago Norte/DF**
+</div>
 </div>
 
 ---
