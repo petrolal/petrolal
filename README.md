@@ -1,4 +1,4 @@
-<table border="0" cellpadding="0" cellspacing="0" style="border:none;">
+<table border="0" cellpadding="0" cellspacing="0" style="border-color: transparent;border:none;">
 <tr border="0" cellpadding="0" cellspacing="0" style="border:none;">
 <td width="60%" valign="top" style="border:none;">
 
