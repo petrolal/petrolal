@@ -41,14 +41,14 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=petrolal&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
     </picture>
   </a>
   <a href="https://github.com/petrolal">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=14&hide=other" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&layout=compact&langs_count=14&hide=other" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=@petrolal&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Wakatime Stats&hide=other" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Wakatime Stats&hide=other" />
     </picture>
   </a>
 </div>
