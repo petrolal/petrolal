@@ -1,16 +1,26 @@
-# Hi👋, I'm [Lucas Petrola](https://me.5dev.in)
+<table border="0" cellpadding="0" cellspacing="0" style="border:none;">
+<tr>
+<td width="60%" valign="top" style="border:none;">
 
-<img align="right" width="40%" src="assets/programming.png">
+# Hi 👋, I'm Lucas Petrola
 
-<h3>A Cloud Platform & DevOps Engineer focused on Distributed Systems & AWS</h3>
+### A Cloud Platform & DevOps Engineer focused on Distributed Systems & AWS
 
 - ☁️ Cloud Platform Engineer working with **AWS & Kubernetes**
 - 🏗️ Building scalable **event-driven distributed systems**
 - ⚙️ Strong background in **Infrastructure as Code & CI/CD**
 - 🚀 Performance & Reliability obsessed
-- 📧 Reach me via [**Email**](mailto:petrolalucas@gmail.com) or connect on [**LinkedIn
-  **](https://www.linkedin.com/in/lucas-petrola/).
+- 📧 Reach me via [Email](mailto:petrolalucas@gmail.com)
 - 📍 Based in **Brazil, Lago Norte/DF**
+
+</td>
+
+<td width="40%" align="center" >
+<img src="assets/programming.png" width="100%" style="border:none;"/>
+</td>
+
+</tr>
+</table>
 
 ---
 
