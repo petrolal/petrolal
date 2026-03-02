@@ -1,4 +1,4 @@
-<img align="right" width="30%" src="Assets/Programming.gif">
+<img align="right" width="30%" src="assets/programming.png">
 
 # Hi👋, I'm [Lucas Petrola](https://me.5dev.in)
 
@@ -68,11 +68,11 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,java,kotlin,python,bash,ts" />
+    <img src="https://skillicons.dev/icons?i=go,java,kotlin,python,ts,bash" />
     <br />
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,grafana,jenkins,prometheus" />
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,grafana,prometheus,jenkins" />
     <br />
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postgres,mysql,redis,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postgres,mysql,rabbitmq" />
   </a>
 </div>
 
