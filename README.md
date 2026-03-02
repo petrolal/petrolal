@@ -8,7 +8,8 @@
 - 🏗️ Building scalable **event-driven distributed systems**
 - ⚙️ Strong background in **Infrastructure as Code & CI/CD**
 - 🚀 Performance & Reliability obsessed
-- 📧 Reach me via [**Email**](mailto:petrolalucas@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/lucas-petrola/).
+- 📧 Reach me via [**Email**](mailto:petrolalucas@gmail.com) or connect on [**LinkedIn
+  **](https://www.linkedin.com/in/lucas-petrola/).
 - 📍 Based in **Brazil, Lago Norte/DF**
 
 ---
@@ -57,7 +58,7 @@
   <a href="https://www.credly.com/badges/b0f61f2e-72fd-4591-8e98-40aeb33c8f6c/public_url">
     <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120px"/>
   </a>
-  
+
   <a href="https://www.credly.com/badges/27103560-7475-457b-867e-87bcfe84dd77/public_url">
     <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120px"/>
   </a>
@@ -80,13 +81,9 @@
 <div align="center">
   <a href="https://wakatime.com/@petrolal"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="20" src="https://komarev.com/ghpvc/?username=petrolal&color=blue" alt=""/></a>
-  <a href="https://github.com/Platane/snk">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/petrolal/petrolal/blob/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/petrolal/petrolal/blob/output/github-snake.svg" />
-      <img width="804px" alt="github-snake" src="https://github.com/petrolal/petrolal/blob/output/github-snake-dark.svg" />
-    </picture>
-  </a>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/petrolal/petrolal/output/github-snake-dark.svg" />
+  </p>
 </div>
 
 <!-- yhype Installation -->
