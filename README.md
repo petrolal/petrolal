@@ -12,6 +12,8 @@
   **](https://www.linkedin.com/in/lucas-petrola/).
 - 📍 Based in **Brazil, Lago Norte/DF**
 
+---
+
 # 📊 GitHub Stats
 
 <div width="100%" align="center">
