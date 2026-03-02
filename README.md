@@ -1,3 +1,4 @@
+<div display="flex" align="center">
 <img align="right" width="40%" src="assets/programming.png">
 
 # Hi👋, I'm [Lucas Petrola](https://me.5dev.in)
@@ -11,6 +12,7 @@
 - 📧 Reach me via [**Email**](mailto:petrolalucas@gmail.com) or connect on [**LinkedIn
   **](https://www.linkedin.com/in/lucas-petrola/).
 - 📍 Based in **Brazil, Lago Norte/DF**
+</div>
 
 ---
 
@@ -24,6 +26,7 @@
       <img width="400px" align="center" src="https://github-readme-stats-ranit.vercel.app/api?username=petrolal&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" alt="GitHub Stats" />
     </picture>
   </a>
+
   <a href="https://github.com/petrolal">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=petrolal&theme=radical&hide_border=true" />
