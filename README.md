@@ -12,7 +12,7 @@
   **](https://www.linkedin.com/in/lucas-petrola/).
 - 📍 Based in **Brazil, Lago Norte/DF**
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div width="100%" align="center">
  <a href="https://github.com/petrolal">
@@ -32,7 +32,7 @@
   </a>
 </div>
 
-## 🔥 Language & Coding Activity
+# 🔥 Language & Coding Activity
 
 <div width="100%" align="center">
   <a href="https://github.com/petrolal">
@@ -51,7 +51,7 @@
   </a>
 </div>
 
-## 🏅 Certifications
+# 🏅 Certifications
 
 <div align="center">
   <a href="https://www.credly.com/badges/b0f61f2e-72fd-4591-8e98-40aeb33c8f6c/public_url">
@@ -63,7 +63,7 @@
   </a>
 </div>
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
