@@ -1,8 +1,6 @@
 # Hi👋, I'm [Lucas Petrola](https://me.5dev.in)
 
-<div display="flex" align="left">
 <img align="right" width="40%" src="assets/programming.png">
-<div>
 
 <h3>A Cloud Platform & DevOps Engineer focused on Distributed Systems & AWS</h3>
 
@@ -13,10 +11,10 @@
 - 📧 Reach me via [**Email**](mailto:petrolalucas@gmail.com) or connect on [**LinkedIn
   **](https://www.linkedin.com/in/lucas-petrola/).
 - 📍 Based in **Brazil, Lago Norte/DF**
-</div>
-</div>
 
-<h2 align="center">📊 GitHub Stats</h2>
+---
+
+# 📊 GitHub Stats
 
 <div width="100%" align="center">
  <a href="https://github.com/petrolal">
@@ -36,7 +34,7 @@
   </a>
 </div>
 
-<h2 align="center">🔥 Language & Coding Activity</h2>
+# 🔥 Language & Coding Activity
 
 <div width="100%" align="center">
   <a href="https://github.com/petrolal">
@@ -55,7 +53,7 @@
   </a>
 </div>
 
-<h2 align="center">🏅 Certifications</h2>
+# 🏅 Certifications
 
 <div align="center">
   <a href="https://www.credly.com/badges/b0f61f2e-72fd-4591-8e98-40aeb33c8f6c/public_url">
@@ -67,7 +65,7 @@
   </a>
 </div>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+# 🛠️ Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -79,7 +77,7 @@
   </a>
 </div>
 
-<hr>
+---
 
 <div align="center">
   <a href="https://wakatime.com/@petrolal"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a>
