@@ -1,7 +1,8 @@
+# Hi👋, I'm [Lucas Petrola](https://me.5dev.in)
+
 <div display="flex" align="left">
 <img align="right" width="40%" src="assets/programming.png">
 <div>
-# Hi👋, I'm [Lucas Petrola](https://me.5dev.in)
 
 <h3>A Cloud Platform & DevOps Engineer focused on Distributed Systems & AWS</h3>
 
@@ -14,8 +15,6 @@
 - 📍 Based in **Brazil, Lago Norte/DF**
 </div>
 </div>
-
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 
