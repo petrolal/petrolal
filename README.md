@@ -48,8 +48,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=14&hide=other" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&layout=compact&langs_count=14&hide=other" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Wakatime Stats&hide=other" />
-    </picture>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=petrolal&theme=radical&hide_border=true" />    </picture>
   </a>
 </div>
 
