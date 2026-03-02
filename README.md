@@ -1,5 +1,5 @@
 <table border="0" cellpadding="0" cellspacing="0" style="border:none;">
-<tr>
+<tr border="0" cellpadding="0" cellspacing="0" style="border:none;">
 <td width="60%" valign="top" style="border:none;">
 
 # Hi 👋, I'm Lucas Petrola
@@ -15,7 +15,7 @@
 
 </td>
 
-<td width="40%" align="center" >
+<td width="40%" align="center" style="border:none;">
 <img src="assets/programming.png" width="100%" style="border:none;"/>
 </td>
 
