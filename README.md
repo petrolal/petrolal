@@ -1,71 +1,93 @@
-# 🔧 Backend Engineer | Cloud-Native | Go, Python, Kotlin & AWS
+<img align="right" width="30%" src="Assets/Programming.gif">
 
-Engenheiro Backend com mais de 9 anos construindo **microsserviços de alta performance**, sistemas distribuídos, integrações cloud e arquitetura escalável. Forte experiência prática em **Go, Python, Kotlin/Java**, ambientes AWS e pipelines automatizados.
+# Hi👋, I'm [Lucas Petrola](https://me.5dev.in)
 
-Atuação sólida em **APIs resilientes**, mensageria, infraestrutura containerizada e entregas contínuas.  
-Foco em entregar **software rápido, seguro e previsível**, mantendo código limpo e arquitetura clara.
+<h3>A Cloud Platform & DevOps Engineer focused on Distributed Systems & AWS</h3>
 
----
-
-<details>
-  <summary><h3>📖 Sobre Mim</h3></summary>
-
-- Engenheiro Backend atuando com **Go, Python, Kotlin e Java**.  
-- Experiência com **microsserviços, integrações AWS e sistemas IoT**.  
-- Forte atuação em **Docker, CI/CD, automação e cloud-native**.  
-- Passagens por **ASSA ABLOY, Zello Tecnologia, PD Case e Comunix**.  
-- Interesse constante em **observabilidade, performance e boas práticas de engenharia**.  
-- Usuário de Linux minimalista (**Arch/Debian**), adepto de automação e setups enxutos.  
-
-</details>
+- ☁️ Cloud Platform Engineer working with **AWS & Kubernetes**
+- 🏗️ Building scalable **event-driven distributed systems**
+- ⚙️ Strong background in **Infrastructure as Code & CI/CD**
+- 🚀 Performance & Reliability obsessed
+- 📧 Reach me via [**Email**](mailto:petrolalucas@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/lucas-petrola/).
+- 📍 Based in **Brazil, Lago Norte/DF**
 
 ---
 
-<details>
-  <summary><h3>🛠️ Stack Técnica</h3></summary>
+<h2 align="center">📊 GitHub Stats</h2>
 
-#### 💻 Linguagens & Frameworks
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-
-#### ☁️ Cloud / AWS
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-- Lambda  
-- ECS  
-- S3  
-- RDS  
-- EventBridge  
-
-#### ⚙️ DevOps & Automação
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
-#### 🧩 Mensageria & Dados
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-</details>
----
-
-<details>
-  <summary><h3>📈 GitHub Stats</h3></summary>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=petrolal&show_icons=true&hide_border=true&theme=github_dark" width="440"/>      
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=petrolal&theme=github_dark&hide_border=true" width="600" />
+<div width="100%" align="center">
+ <a href="https://github.com/petrolal">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=petrolal&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=petrolal&include_all_commits=true&count_private=true&show_icons=true&card_width=495" />
+      <img width="400px" align="center" src="https://github-readme-stats-ranit.vercel.app/api?username=petrolal&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" alt="GitHub Stats" />
+    </picture>
+  </a>
+  <a href="https://github.com/petrolal">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=petrolal&theme=radical&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=petrolal" />
+      <img width="400px" align="center" src="https://github-readme-streak-stats-ranit.vercel.app?user=petrolal&theme=radical&hide_border=true" alt="Streak Stats" />
+    </picture>
+  </a>
 </div>
 
-</details>
+<h2 align="center">🔥 Language & Coding Activity</h2>
 
----
+<div width="100%" align="center">
+  <a href="https://github.com/petrolal">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=petrolal&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+    </picture>
+  </a>
+  <a href="https://github.com/petrolal">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=14&hide=other" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&layout=compact&langs_count=14&hide=other" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=@petrolal&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Wakatime Stats&hide=other" />
+    </picture>
+  </a>
+</div>
 
-<a href="https://www.linkedin.com/in/lucas-petrola/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:petrolalucas@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<h2 align="center">🏅 Certifications</h2>
+
+<div align="center">
+  <a href="https://www.credly.com/badges/b0f61f2e-72fd-4591-8e98-40aeb33c8f6c/public_url">
+    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120px"/>
+  </a>
+  
+  <a href="https://www.credly.com/badges/27103560-7475-457b-867e-87bcfe84dd77/public_url">
+    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120px"/>
+  </a>
+</div>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,java,kotlin,python,bash,ts" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,grafana,jenkins,prometheus" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postgres,mysql,redis,rabbitmq" />
+  </a>
+</div>
+
+<hr>
+
+<div align="center">
+  <a href="https://wakatime.com/@petrolal"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="20" src="https://komarev.com/ghpvc/?username=petrolal&color=blue" alt=""/></a>
+  <a href="https://github.com/Platane/snk">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/petrolal/petrolal/blob/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/petrolal/petrolal/blob/output/github-snake.svg" />
+      <img width="804px" alt="github-snake" src="https://github.com/petrolal/petrolal/blob/output/github-snake-dark.svg" />
+    </picture>
+  </a>
+</div>
+
+<!-- yhype Installation -->
+![](https://hit.yhype.me/github/profile?user_id=138437760)
