@@ -1,4 +1,4 @@
-<img align="right" width="30%" src="assets/programming.png">
+<img align="right" width="40%" src="assets/programming.png">
 
 # Hi👋, I'm [Lucas Petrola](https://me.5dev.in)
 
