@@ -4,12 +4,13 @@
 
 # Hi 👋, I'm Lucas Petrola
 
-### A Cloud Platform & DevOps Engineer focused on Distributed Systems & AWS
+### Backend Engineer focused on Java, Kotlin & Go
 
-- ☁️ Cloud Platform Engineer working with **AWS & Kubernetes**
-- 🏗️ Building scalable **event-driven distributed systems**
-- ⚙️ Strong background in **Infrastructure as Code & CI/CD**
-- 🚀 Performance & Reliability obsessed
+- 💻 Backend Engineer building **high-performance APIs & distributed systems**
+- ⚙️ Strong experience with **Java (Spring Boot), Kotlin & Go**
+- 🧠 Designing **scalable, resilient microservices & event-driven architectures**
+- 🗄️ Working with **databases, messaging systems & system design**
+- 🚀 Focused on **performance, concurrency & reliability**
 - 📧 Reach me via [Email](mailto:petrolalucas@gmail.com)
 - 📍 Based in **Brazil, Lago Norte/DF**
 
@@ -78,11 +79,9 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,java,kotlin,python,ts,bash" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,go,spring,postgres,mysql,redis,rabbitmq,kafka" />
     <br />
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,grafana,prometheus,jenkins" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postgres,mysql,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,gitlab" />
   </a>
 </div>
 
@@ -96,5 +95,4 @@
   </p>
 </div>
 
-<!-- yhype Installation -->
 ![](https://hit.yhype.me/github/profile?user_id=138437760)
