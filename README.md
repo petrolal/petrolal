@@ -1,7 +1,3 @@
-<table border="0" cellpadding="0" cellspacing="0" style="border-color: transparent;border:none;">
-<tr border="0" cellpadding="0" cellspacing="0" style="border:none;">
-<td width="60%" valign="top" style="border:none;">
-
 # Hi 👋, I'm Lucas Petrola
 
 ### Senior Integration Architect | MuleSoft & AWS Solutions Architect
@@ -12,15 +8,6 @@
 - 🚀 **Mission Critical Experience**: Proven track record in IoT Global ecosystems and Public Safety integration buses (PMMG).
 - 📧 Reach me via [Email](mailto:petrolalucas@gmail.com)
 - 📍 Based in **Brazil, Lago Norte/DF**
-
-</td>
-
-<td width="40%" align="center" style="border:none;">
-<img src="https://raw.githubusercontent.com/mulesoft-consulting/mule-ads-assets/master/logos/mulesoft-logo.png" width="100%" style="border:none;"/>
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -82,7 +69,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,rabbitmq,kafka" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=salesforce">
-   <br />
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a6d8ed58-3cf1-4424-ac5b-b7be904ef0e4" />
+    <br />
     <br />
     <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,gitlab" />
   </a>
