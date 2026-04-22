@@ -4,20 +4,19 @@
 
 # Hi 👋, I'm Lucas Petrola
 
-### Backend Engineer focused on Java, Kotlin & Go
+### Senior Integration Architect | MuleSoft & AWS Solutions Architect
 
-- 💻 Backend Engineer building **high-performance APIs & distributed systems**
-- ⚙️ Strong experience with **Java (Spring Boot), Kotlin & Go**
-- 🧠 Designing **scalable, resilient microservices & event-driven architectures**
-- 🗄️ Working with **databases, messaging systems & system design**
-- 🚀 Focused on **performance, concurrency & reliability**
+- 🛠️ **MuleSoft Expert**: Specialized in Anypoint Platform, DataWeave 2.0, and **API-Led Connectivity** (System, Process, Experience layers).
+- ☁️ **AWS Solutions Architect**: Designing secure, scalable cloud integrations using Anypoint VPCs, VPNs, and OAuth2.
+- ☕ **Java Specialist**: Deep background in Spring Boot, microservices, and transitioning legacy systems to the cloud.
+- 🚀 **Mission Critical Experience**: Proven track record in IoT Global ecosystems and Public Safety integration buses (PMMG).
 - 📧 Reach me via [Email](mailto:petrolalucas@gmail.com)
 - 📍 Based in **Brazil, Lago Norte/DF**
 
 </td>
 
 <td width="40%" align="center" style="border:none;">
-<img src="assets/programming.png" width="100%" style="border:none;"/>
+<img src="https://raw.githubusercontent.com/mulesoft-consulting/mule-ads-assets/master/logos/mulesoft-logo.png" width="100%" style="border:none;"/>
 </td>
 
 </tr>
@@ -66,23 +65,28 @@
 # 🏅 Certifications
 
 <div align="center">
-  <a href="https://www.credly.com/badges/b0f61f2e-72fd-4591-8e98-40aeb33c8f6c/public_url">
+  <a href="https://www.credly.com/badges/74d480a3ad81441dafadd4c0aaaef3d1/public_url">
     <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120px"/>
   </a>
 
-  <a href="https://www.credly.com/badges/27103560-7475-457b-867e-87bcfe84dd77/public_url">
+  <a href="https://www.credly.com/badges/36ff909ddf9c4a269a82621643511fe2/public_url">
     <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120px"/>
   </a>
+  <br />
+  <span><strong>Learning Path:</strong> MuleSoft Certified Integration Architect (MCIA)</span>
 </div>
 
 # 🛠️ Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,go,spring,postgres,mysql,redis,rabbitmq,kafka" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,rabbitmq,kafka" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=salesforce">
+   <br />
     <br />
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,gitlab" />
   </a>
+  <p><strong>Integration Specialist:</strong> MuleSoft Anypoint Platform | DataWeave 2.0 | RAML/OAS | API Governance</p>
 </div>
 
 ---
@@ -94,5 +98,3 @@
     <img src="https://raw.githubusercontent.com/petrolal/petrolal/output/github-snake-dark.svg" />
   </p>
 </div>
-
-![](https://hit.yhype.me/github/profile?user_id=138437760)
