@@ -1,15 +1,15 @@
 # Hi 👋, I'm Lucas Petrola
 
-### Senior Systems Engineer | C, C++ & Go Specialist | Low-Level & High-Performance Software
+### Senior Backend Engineer | Distributed Systems & Cloud-Native Architect
 
-I am a Senior Systems and Backend Engineer with over a decade of experience designing, scaling, and optimizing mission-critical distributed systems and low-level software. My core focus is building resilient, ultra-low latency, and high-concurrency systems, manipulating memory directly in C/C++ or engineering high-throughput microservices in Go. Currently, I'm leveraging systems programming, event-driven designs, and bare-metal/cloud-native hybrid infrastructure to solve complex performance and data ingestion challenges.
+I am a Senior Software Engineer with over 11 years of experience designing, scaling, and maintaining mission-critical distributed systems. My core focus is building resilient, low-latency, and high-concurrency backends. Currently, I'm leveraging cloud-native architectures, event-driven designs, and hyperautomation to solve complex global identity and integration challenges.
 
-- 🚀 **Core Core Systems Stack**: Advanced specialist in **C**, **C++**, and **Go (Golang)**.
-- ☁️ **Infrastructure & Bare Metal**: Specialized in **AWS** (ECS, Kinesis, SQS, SNS, Lambda), **Kubernetes**, **Docker**, and advanced **Linux environments**.
-- 🛠️ **Systems Engineering**: Low-level optimization, Memory Management, Multithreading, Latency Optimization (p95), Network Protocols, and Firmware/Hardware Integration.
-- 🔒 **Mission Critical Experience**: Architecting real-time telecom cores (SIP, Asterisk, VoIP), building edge-to-cloud IoT telemetry pipelines, and designing distributed services handling up to 15,000 RPS.
-- 📧 Reach me via [Email](mailto:petrolalucas@gmail.com) or [LinkedIn](https://www.linkedin.com/in/lucas-petrola)
-- 📍 Based in **Lago Norte, Distrito Federal, Brazil**.
+- 🚀 **Core Backend Stack**: Advanced developer in **Java (Spring Boot)**, **Kotlin**, and **Go**.
+- ☁️ **Cloud-Native & SRE**: Specialized in **AWS** (Lambda, Kinesis, SQS, SNS, DynamoDB), **Kubernetes**, and Infrastructure as Code (**Terraform**).
+- 🛠️ **Architecture Patterns**: Event-Driven Architectures (EDA), Serverless, Platform Engineering, and legacy-to-cloud modernization.
+- 🔒 **Mission Critical Experience**: Orchestrating global identity systems, integrating IoT edge devices with cloud platforms, and managing high-concurrency engines for public safety operations.
+- 📧 Reach me via [Email](mailto:petrolalucas@gmail.com) or [LinkedIn](https://www.linkedin.com/in/lucas-petrola-backend-architect)
+- 📍 Based in **Lago Norte, Distrito Federal, Brazil**
 
 ---
 
@@ -70,12 +70,12 @@ I am a Senior Systems and Backend Engineer with over a decade of experience desi
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,go,java,postgres,mysql,redis" alt="Languages and Databases" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,go,spring,postgres,mysql,redis" alt="Languages and Databases" />
     <br />
     <br />
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,git,github,gitlab" alt="DevOps and Cloud Tools" />
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,linux,git,github,gitlab" alt="DevOps and Cloud Tools" />
   </a>
-  <p><strong>Specialist in:</strong> Low-Level Programming | Systems Architecture | Real-Time Telemetry & VoIP | High-Performance Engines</p>
+  <p><strong>Specialist in:</strong> Distributed Systems | Event-Driven Architectures (EDA) | SRE Mindset | High-Performance Cloud APIs</p>
 </div>
 
 ---
