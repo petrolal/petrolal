@@ -62,7 +62,7 @@ I am a Senior Software Engineer with over 11 years of experience designing, scal
   <a href="https://www.credly.com/badges/74d480a3ad81441dafadd4c0aaaef3d1/public_url">
     <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120px" alt="AWS Certified Cloud Practitioner" />
   </a>
-  <br />
+  <br /><br />
   <span><strong>AWS Certified:</strong> Solutions Architect (Associate) & Cloud Practitioner</span>
 </div>
 
@@ -71,11 +71,13 @@ I am a Senior Software Engineer with over 11 years of experience designing, scal
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,spring" alt="Languages and Databases" />
-    <br />
+    <br/>
     <img src="https://skillicons.dev/icons?i=rabbitmq,mysql,postgres,redis,maven,gradle,cmake" alt="Additional Tools" />
     <br/>
     <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,linux,git,github,gitlab" alt="DevOps and Cloud Tools" />
   </a>
+  <br><br>
+  <p><strong>Specialist in:</strong> Distributed Systems | Event-Driven Architectures (EDA) | SRE Mindset | High-Performance Cloud APIs</p>
 </div>
 
 ---
