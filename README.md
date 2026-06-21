@@ -4,7 +4,7 @@
 
 I am a Senior Software Engineer with over 11 years of experience designing, scaling, and maintaining mission-critical distributed systems. My core focus is building resilient, low-latency, and high-concurrency backends. Currently, I'm leveraging cloud-native architectures, event-driven designs, and hyperautomation to solve complex global identity and integration challenges.
 
-- 🚀 **Core Backend Stack**: Advanced developer in **Java (Spring Boot)**, **Kotlin**, and **Go**.
+- 🚀 **Core Backend Stack**: Advanced developer in **Java (Spring Boot)**, **Kotlin**, and **C/C++**.
 - ☁️ **Cloud-Native & SRE**: Specialized in **AWS** (Lambda, Kinesis, SQS, SNS, DynamoDB), **Kubernetes**, and Infrastructure as Code (**Terraform**).
 - 🛠️ **Architecture Patterns**: Event-Driven Architectures (EDA), Serverless, Platform Engineering, and legacy-to-cloud modernization.
 - 🔒 **Mission Critical Experience**: Orchestrating global identity systems, integrating IoT edge devices with cloud platforms, and managing high-concurrency engines for public safety operations.
@@ -70,12 +70,12 @@ I am a Senior Software Engineer with over 11 years of experience designing, scal
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,go,spring,postgres,mysql,redis" alt="Languages and Databases" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,spring" alt="Languages and Databases" />
     <br />
-    <br />
+    <img src="https://skillicons.dev/icons?i=rabbitmq,mysql,postgres,redis,maven,gradle,cmake" alt="Additional Tools" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,linux,git,github,gitlab" alt="DevOps and Cloud Tools" />
   </a>
-  <p><strong>Specialist in:</strong> Distributed Systems | Event-Driven Architectures (EDA) | SRE Mindset | High-Performance Cloud APIs</p>
 </div>
 
 ---
