@@ -4,7 +4,7 @@
 
 I am a Senior Software Engineer with over 11 years of experience designing, scaling, and maintaining mission-critical distributed systems. My core focus is building resilient, low-latency, and high-concurrency backends. Currently, I'm leveraging cloud-native architectures, event-driven designs, and hyperautomation to solve complex global identity and integration challenges.
 
-- 🚀 **Core Backend Stack**: Advanced developer in **Java (Spring Boot)**, **Kotlin**, and **C/C++**.
+- 🚀 **Core Backend Stack**: Advanced developer in **Java** and **Kotlin** with **Spring Boot**.
 - ☁️ **Cloud-Native & SRE**: Specialized in **AWS** (Lambda, Kinesis, SQS, SNS, DynamoDB), **Kubernetes**, and Infrastructure as Code (**Terraform**).
 - 🛠️ **Architecture Patterns**: Event-Driven Architectures (EDA), Serverless, Platform Engineering, and legacy-to-cloud modernization.
 - 🔒 **Mission Critical Experience**: Orchestrating global identity systems, integrating IoT edge devices with cloud platforms, and managing high-concurrency engines for public safety operations.
