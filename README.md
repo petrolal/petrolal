@@ -1,5 +1,9 @@
 # Hi 👋, I'm Lucas Petrola
 
+[petrolalucas@gmail.com](mailto:petrolalucas@gmail.com) | [linkedin.com/in/lucas-petrola](https://www.linkedin.com/in/lucas-petrola) | Brasília, DF, Brazil | Open to Relocation & Global Remote
+
+---
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Senior+Backend+Engineer+%7C+Java+%26+Kotlin;Distributed+Systems+%26+Event-Driven+Architectures;High-Throughput+Microservices+%26+Kafka;AWS+Solutions+Architect+Certified" alt="Typing SVG" />
@@ -8,22 +12,15 @@
 
 Senior Software Engineer with **11+ years** of experience designing, architecting, and scaling mission-critical, high-throughput microservices. Specialized in **Java (8 to 21)** and **Kotlin**, Event-Driven Architectures (SAGA, Apache Kafka, AWS/GCP), Hexagonal & Clean Architecture, and resilient Cloud-Native platforms.
 
-- **Location**: Brasília, DF, Brazil | Open to Relocation & Global Remote
-- **LinkedIn**: [linkedin.com/in/lucas-petrola](https://www.linkedin.com/in/lucas-petrola)
-- **Email**: [petrolalucas@gmail.com](mailto:petrolalucas@gmail.com)
+## Architectural Highlights & Core Focus
 
----
+- **High Concurrency & Real-Time Ingestion**: Highly proficient in Kotlin Coroutines, Apache Kafka, EventBridge, SQS/SNS, and real-time IoT Core (MQTT/BLE) streaming pipelines.
+- **Architecture & Design**: Hexagonal Architecture (Ports & Adapters), SAGA Pattern (Orchestration & Choreography), Domain-Driven Design (DDD), and GraalVM native optimization.
+- **Cloud-Native & Hybrid**: Deep expertise across **AWS** (EKS, ECS, Lambda, IoT Core, DynamoDB, RDS) and **GCP** (GKE, Pub/Sub, Cloud SQL) with IaC via **Terraform** & **CloudFormation**.
+- **Observability & Testing**: End-to-end telemetry with OpenTelemetry, Datadog, and CloudWatch; comprehensive automated testing with Testcontainers, JUnit5, and MockK.
 
-### 🚀 Architectural Highlights & Core Focus
 
-- ⚡ **High Concurrency & Real-Time Ingestion**: Highly proficient in Kotlin Coroutines, Apache Kafka, EventBridge, SQS/SNS, and real-time IoT Core (MQTT/BLE) streaming pipelines.
-- 🏛️ **Architecture & Design**: Hexagonal Architecture (Ports & Adapters), SAGA Pattern (Orchestration & Choreography), Domain-Driven Design (DDD), and GraalVM native optimization.
-- ☁️ **Cloud-Native & Hybrid**: Deep expertise across **AWS** (EKS, ECS, Lambda, IoT Core, DynamoDB, RDS) and **GCP** (GKE, Pub/Sub, Cloud SQL) with IaC via **Terraform** & **CloudFormation**.
-- 🧪 **Observability & Testing**: End-to-end telemetry with OpenTelemetry, Datadog, and CloudWatch; comprehensive automated testing with Testcontainers, JUnit5, and MockK.
-
----
-
-### 🏅 Certifications
+## Certifications
 
 <div align="center">
   <a href="https://www.credly.com/badges/36ff909ddf9c4a269a82621643511fe2/public_url">
@@ -35,29 +32,16 @@ Senior Software Engineer with **11+ years** of experience designing, architectin
   </a>
 </div>
 
----
-
-### 🛠️ Tech Stack & Tooling
+## Tech Stack & Tooling
 
 <div align="center">
   <a href="https://skillicons.dev">
     <!-- Languages & Frameworks -->
-    <img src="https://skillicons.dev/icons?i=java,kotlin,scala,spring,maven,gradle" alt="Languages & Frameworks" />
-    <br/>
-    <!-- Cloud & Infrastructure -->
-    <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,linux" alt="Cloud & DevOps" />
-    <br/>
-    <!-- Messaging & Databases -->
-    <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,postgres,mysql,redis" alt="Messaging & Databases" />
-    <br/>
-    <!-- CI/CD & Tooling -->
-    <img src="https://skillicons.dev/icons?i=gitlab,github,jenkins,datadog,git" alt="CI/CD & Observability" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,scala,spring,ktor,maven,gradle,hibernate,selenium,aws,gcp,kubernetes,docker,nginx,terraform,ansible,linux,arch,ubuntu,debian,gtk,kafka,rabbitmq,postgres,mysql,sqlite,redis,dynamodb,graphql,gitlab,github,bitbucket,githubactions,jenkins,grafana,prometheus,elasticsearch,git,neovim,idea,eclipse,md,regex,postman,&perline=18" />
   </a>
 </div>
 
----
-
-### 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center" width="100%">
   <picture>
@@ -67,9 +51,7 @@ Senior Software Engineer with **11+ years** of experience designing, architectin
   </picture>
 </div>
 
----
-
-### 📊 GitHub & Coding Stats
+## GitHub & Coding Stats
 
 <div align="center">
   <a href="https://github.com/petrolal">
@@ -109,12 +91,4 @@ Senior Software Engineer with **11+ years** of experience designing, architectin
 
 ---
 
-### ⚡ Recent Activity
-
-<div align="center">
-  <a href="https://wakapi.dev"><img height="20" src="https://wakapi.dev/api/badge/petrolal/interval:any" alt="Wakapi" /></a>
-  &nbsp;
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="20" src="https://komarev.com/ghpvc/?username=petrolal&color=blue" alt="Profile Views" /></a>
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/petrolal/petrolal/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
-</div>
+<img width="100%" src="https://raw.githubusercontent.com/petrolal/petrolal/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
