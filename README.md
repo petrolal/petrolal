@@ -22,15 +22,19 @@ Senior Software Engineer with **11+ years** of experience designing, architectin
 
 ## Certifications
 
-<div align="center">
-  <a href="https://www.credly.com/badges/36ff909ddf9c4a269a82621643511fe2/public_url">
-    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="115px" alt="AWS Certified Solutions Architect – Associate" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/74d480a3ad81441dafadd4c0aaaef3d1/public_url">
-    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="115px" alt="AWS Certified Cloud Practitioner" />
-  </a>
+<table align="center">
+<tr>
+  <td><a href="https://www.credly.com/badges/36ff909ddf9c4a269a82621643511fe2/public_url"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100px" alt="AWS Certified Solutions Architect – Associate" /></a></td>
+  
+  <td><a href="https://www.credly.com/badges/74d480a3ad81441dafadd4c0aaaef3d1/public_url"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100px" alt="AWS Certified Cloud Practitioner" /></a></td>
+
+  <td><a href="https://www.credly.com/badges/f1546cd0-e709-48af-9618-14c1f4cdbc7a"><img src="https://images.credly.com/size/110x110/images/05e27967-eec6-43c0-9e5b-215c9afbd14a/image.png" width="100px" alt="Qlik Replicate Certification" /></a></td>
+  
+  <td><a href="https://www.credly.com/badges/98d3834a-af21-4a36-9fab-09c09b6098a3"><img src="https://images.credly.com/size/110x110/images/502e11bf-689c-4ddc-9624-93f342f24424/image.png" width="100px" alt="Qlik Sense Business Analyst Certification" /></a></td>
+  
 </div>
+</tr>
+</table>
 
 ## Tech Stack & Tooling
 
@@ -49,44 +53,6 @@ Senior Software Engineer with **11+ years** of experience designing, architectin
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-zeta.vercel.app/?username=petrolal&theme=flat&no-frame=true&no-bg=true&row=1&column=7" />
     <img src="https://github-profile-trophy-zeta.vercel.app/?username=petrolal&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
   </picture>
-</div>
-
-## GitHub & Coding Stats
-
-<div align="center">
-  <a href="https://github.com/petrolal">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=petrolal&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=petrolal&include_all_commits=true&count_private=true&show_icons=true&card_width=495" />
-      <img width="48%" src="https://github-stats-extended.vercel.app/api?username=petrolal&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" alt="GitHub Stats" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://github.com/petrolal">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=petrolal&theme=radical&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=petrolal" />
-      <img width="48%" src="https://github-readme-streak-stats-ranit.vercel.app?user=petrolal&theme=radical&hide_border=true" alt="Streak Stats" />
-    </picture>
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/petrolal">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=petrolal&layout=compact&langs_count=12&size_weight=0.5&count_weight=0.5" />
-      <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://github.com/petrolal">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=petrolal&api_domain=wakapi.dev&layout=compact&theme=radical&hide_border=true&hide=other&range=all_time" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=petrolal&api_domain=wakapi.dev&layout=compact&hide_other&range=all_time" />
-      <img width="48%" src="https://github-stats-extended.vercel.app/api/wakatime?username=petrolal&api_domain=wakapi.dev&layout=compact&theme=radical&hide_border=true&hide=other&range=all_time" alt="Wakapi Stats" />
-    </picture>
-  </a>
 </div>
 
 ---
