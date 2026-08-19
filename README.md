@@ -1,6 +1,10 @@
 # Hi 👋, I'm Lucas Petrola
 
-### Senior Backend Engineer | Java & Kotlin | Distributed Systems Architect
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Senior+Backend+Engineer+%7C+Java+%26+Kotlin;Distributed+Systems+%26+Event-Driven+Architectures;High-Throughput+Microservices+%26+Kafka;AWS+Solutions+Architect+Certified" alt="Typing SVG" />
+  </a>
+</div>
 
 Senior Software Engineer with **11+ years** of experience designing, architecting, and scaling mission-critical, high-throughput microservices. Specialized in **Java (8 to 21)** and **Kotlin**, Event-Driven Architectures (SAGA, Apache Kafka, AWS/GCP), Hexagonal & Clean Architecture, and resilient Cloud-Native platforms.
 
@@ -57,6 +61,18 @@ Senior Software Engineer with **11+ years** of experience designing, architectin
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=petrolal&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=petrolal&theme=flat&no-frame=true&no-bg=true&row=1&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=petrolal&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  </picture>
+</div>
+
+---
+
 ### 📊 GitHub & Coding Stats
 
 <div width="100%" align="center">
@@ -86,12 +102,19 @@ Senior Software Engineer with **11+ years** of experience designing, architectin
   </a>
   <a href="https://github.com/petrolal">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=other" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&layout=compact&langs_count=12&hide=other" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=other" alt="WakaTime Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&layout=compact&theme=radical&hide_border=true&hide=other" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&layout=compact&hide=other" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=petrolal&layout=compact&theme=radical&hide_border=true&hide=other" alt="WakaTime Stats" />
     </picture>
   </a>
 </div>
+
+---
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
