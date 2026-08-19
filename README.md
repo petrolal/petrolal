@@ -33,8 +33,6 @@ Senior Software Engineer with **11+ years** of experience designing, architectin
   <a href="https://www.credly.com/badges/74d480a3ad81441dafadd4c0aaaef3d1/public_url">
     <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="115px" alt="AWS Certified Cloud Practitioner" />
   </a>
-  <br /><br />
-  <span><strong>AWS Certified:</strong> Solutions Architect (Associate) & Cloud Practitioner</span>
 </div>
 
 ---
@@ -55,8 +53,6 @@ Senior Software Engineer with **11+ years** of experience designing, architectin
     <!-- CI/CD & Tooling -->
     <img src="https://skillicons.dev/icons?i=gitlab,github,jenkins,datadog,git" alt="CI/CD & Observability" />
   </a>
-  <br><br>
-  <p><strong>Core Competencies:</strong> Distributed Systems • Event-Driven Architectures (EDA) • Hexagonal Architecture • SRE Mindset • High-Performance APIs</p>
 </div>
 
 ---
