@@ -65,9 +65,9 @@ Senior Software Engineer with **11+ years** of experience designing, architectin
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=petrolal&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=petrolal&theme=flat&no-frame=true&no-bg=true&row=1&column=7" />
-    <img src="https://github-profile-trophy.vercel.app/?username=petrolal&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-zeta.vercel.app/?username=petrolal&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-zeta.vercel.app/?username=petrolal&theme=flat&no-frame=true&no-bg=true&row=1&column=7" />
+    <img src="https://github-profile-trophy-zeta.vercel.app/?username=petrolal&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
   </picture>
 </div>
 
@@ -97,14 +97,14 @@ Senior Software Engineer with **11+ years** of experience designing, architectin
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=petrolal&layout=compact&langs_count=12&size_weight=0.5&count_weight=0.5" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
     </picture>
   </a>
   <a href="https://github.com/petrolal">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&layout=compact&theme=radical&hide_border=true&hide=other" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&layout=compact&hide=other" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=petrolal&layout=compact&theme=radical&hide_border=true&hide=other" alt="WakaTime Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&layout=compact&theme=radical&hide_border=true&hide=other&range=all_time" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&layout=compact&hide=other&range=all_time" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&layout=compact&theme=radical&hide_border=true&hide=other&range=all_time" alt="WakaTime Stats" />
     </picture>
   </a>
 </div>
@@ -119,7 +119,7 @@ Senior Software Engineer with **11+ years** of experience designing, architectin
 ---
 
 <div align="center">
-  <a href="https://wakatime.com/@petrolal"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt="WakaTime" /></a>
+  <a href="https://wakatime.com/@petrolal"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/0040d646-a751-48c5-9d1b-944f9d8caeaf.svg" alt="WakaTime" /></a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="20" src="https://komarev.com/ghpvc/?username=petrolal&color=blue" alt="Profile Views" /></a>
   <p align="center">
     <img src="https://raw.githubusercontent.com/petrolal/petrolal/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
