@@ -63,7 +63,7 @@ Senior Software Engineer with **11+ years** of experience designing, architectin
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
+<div align="center" width="100%">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-zeta.vercel.app/?username=petrolal&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-zeta.vercel.app/?username=petrolal&theme=flat&no-frame=true&no-bg=true&row=1&column=7" />
@@ -114,11 +114,6 @@ Senior Software Engineer with **11+ years** of experience designing, architectin
 ---
 
 ### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 <div align="center">
   <a href="https://wakapi.dev"><img height="20" src="https://wakapi.dev/api/badge/petrolal/interval:any" alt="Wakapi" /></a>
