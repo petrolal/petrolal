@@ -8,9 +8,9 @@
 
 Senior Software Engineer with **11+ years** of experience designing, architecting, and scaling mission-critical, high-throughput microservices. Specialized in **Java (8 to 21)** and **Kotlin**, Event-Driven Architectures (SAGA, Apache Kafka, AWS/GCP), Hexagonal & Clean Architecture, and resilient Cloud-Native platforms.
 
-- 🌍 **Location**: Brasília, DF, Brazil | Open to Relocation & Global Remote
-- 💼 **LinkedIn**: [linkedin.com/in/lucas-petrola](https://www.linkedin.com/in/lucas-petrola)
-- 📧 **Email**: [petrolalucas@gmail.com](mailto:petrolalucas@gmail.com)
+- **Location**: Brasília, DF, Brazil | Open to Relocation & Global Remote
+- **LinkedIn**: [linkedin.com/in/lucas-petrola](https://www.linkedin.com/in/lucas-petrola)
+- **Email**: [petrolalucas@gmail.com](mailto:petrolalucas@gmail.com)
 
 ---
 
