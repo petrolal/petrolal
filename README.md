@@ -78,9 +78,9 @@ Senior Software Engineer with **11+ years** of experience designing, architectin
 <div align="center">
   <a href="https://github.com/petrolal">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=petrolal&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=petrolal&include_all_commits=true&count_private=true&show_icons=true&card_width=495" />
-      <img width="48%" src="https://github-readme-stats-ranit.vercel.app/api?username=petrolal&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" alt="GitHub Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=petrolal&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=petrolal&include_all_commits=true&count_private=true&show_icons=true&card_width=495" />
+      <img width="48%" src="https://github-stats-extended.vercel.app/api?username=petrolal&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" alt="GitHub Stats" />
     </picture>
   </a>
   &nbsp;
@@ -96,17 +96,17 @@ Senior Software Engineer with **11+ years** of experience designing, architectin
 <div align="center">
   <a href="https://github.com/petrolal">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=petrolal&layout=compact&langs_count=12&size_weight=0.5&count_weight=0.5" />
-      <img width="48%" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=petrolal&layout=compact&langs_count=12&size_weight=0.5&count_weight=0.5" />
+      <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=petrolal&layout=compact&theme=radical&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
     </picture>
   </a>
   &nbsp;
   <a href="https://github.com/petrolal">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&api_domain=wakapi.dev&layout=compact&theme=radical&hide_border=true&hide=other&range=all_time" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&api_domain=wakapi.dev&layout=compact&hide_other&range=all_time" />
-      <img width="48%" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=petrolal&api_domain=wakapi.dev&layout=compact&theme=radical&hide_border=true&hide=other&range=all_time" alt="Wakapi Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=petrolal&api_domain=wakapi.dev&layout=compact&theme=radical&hide_border=true&hide=other&range=all_time" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=petrolal&api_domain=wakapi.dev&layout=compact&hide_other&range=all_time" />
+      <img width="48%" src="https://github-stats-extended.vercel.app/api/wakatime?username=petrolal&api_domain=wakapi.dev&layout=compact&theme=radical&hide_border=true&hide=other&range=all_time" alt="Wakapi Stats" />
     </picture>
   </a>
 </div>
